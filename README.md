@@ -1,4 +1,4 @@
-# TCP-JAVA
+# UDP-JAVA
 
 JAVA实现UDP服务器和客户端通信以及客户端之间进行通信的小Demo,计网socket实验
 
